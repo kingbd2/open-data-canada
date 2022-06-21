@@ -9,7 +9,7 @@ Jinja2==2.10
 lxml==4.1.1
 MarkupSafe==1.0
 matplotlib==2.1.2
-numpy==1.14.1
+numpy==1.22.0
 pandas==0.22.0
 pandas-profiling==1.4.1
 psycopg2==2.7.4
